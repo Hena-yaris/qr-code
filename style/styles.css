@@ -28,7 +28,6 @@ background-color: hsl(0, 0%, 100%);
 
 .qr__image ,.qr__image img{
         border-radius: 20px;
-
 }
 
 .qr__description{
@@ -37,8 +36,7 @@ background-color: hsl(0, 0%, 100%);
     text-align: center;
 }
 h1,p{
-    background-color: hsl(0, 0%, 100%);
-    
+    background-color: hsl(0, 0%, 100%);   
 }
 h1{
     font-size: 22px;
@@ -50,3 +48,4 @@ p{
     color: hsl(212, 45%, 89%);
     font-weight: 600;
 }
+
